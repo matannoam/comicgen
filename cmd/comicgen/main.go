@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/iopred/comicgen"
+	"github.com/matannoam/comicgen"
 )
 
 func main() {
